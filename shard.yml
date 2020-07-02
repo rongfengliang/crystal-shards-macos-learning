@@ -1,0 +1,23 @@
+name: first
+version: 0.1.0
+
+authors:
+  - name 1141591465@qq.com
+
+targets:
+  http-server:
+    main: src/main.cr
+
+# description: |
+#   Short description of first
+
+# dependencies:
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
